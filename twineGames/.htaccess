@@ -1,4 +1,0 @@
-AuthType Basic
-AuthNae "Protected Site"
-AuthUserFiles /.htpasswd
-require valid-user
